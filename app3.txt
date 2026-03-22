@@ -1,0 +1,4 @@
+hello mt name is kang eun gyu
+hi hi hi 
+hello = 'a'
+print (a)
